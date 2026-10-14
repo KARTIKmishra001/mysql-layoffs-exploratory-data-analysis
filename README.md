@@ -24,7 +24,7 @@ mysql-layoffs-exploratory-data-analysis/
 ├── sql/
 │   └── 04_exploratory_data_analysis.sql
 └── results/
-    └── .gitkeep
+    └── result_pdf
 ```
 
 ## Tools and SQL Skills
